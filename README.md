@@ -3,6 +3,10 @@
 This project is a Unity-based game designed to support **cognitive training** through an interactive constellation memory task. Players memorize the sequence of appearance of "stars" (white orbs) and click them in the correct order to form constellations.
 
 > **Note:** This repository contains the **core C# scripts** of the project to demonstrate the logic and implementation details. The full Unity project files are not included.
+## 2D Version
+![2D Gameplay](./ex2.png)
+## 3D Version
+![3D Gameplay](./ex1.png)
 
 ## 🎮 Game Overview
 "順向點擊" (Click In Order) is a game themed around the night sky. 
@@ -28,11 +32,11 @@ This project is a Unity-based game designed to support **cognitive training** th
 ## 📦 Core Scripts
 | Script | Description |
 | :--- | :--- |
-| `ConstellationRenderer.cs` | Controls game flow, logic, and data storage[cite: 9]. |
-| `GameSettingsManager.cs` | Manages menu settings and player preferences[cite: 9]. |
-| `CircleToStar.cs` | Handles orb-to-star visual feedback animations[cite: 9]. |
-| `ShowRound.cs` | Manages real-time UI round and score updates[cite: 9]. |
-| `Constellation.cs` | Defines constellation data and star coordination[cite: 9]. |
+| `ConstellationRenderer.cs` | Controls game flow, logic, and data storage. |
+| `GameSettingsManager.cs` | Manages menu settings and player preferences. |
+| `CircleToStar.cs` | Handles orb-to-star visual feedback animations. |
+| `ShowRound.cs` | Manages real-time UI round and score updates. |
+| `Constellation.cs` | Defines constellation data and star coordination. |
 
 ## 🚀 Setup & Requirements
 * **Unity Version**: 2021.3.44f1
