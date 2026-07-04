@@ -7,9 +7,11 @@ This project is a Unity-based game designed to support **cognitive training** th
 ## 🎮 Gameplay Demos
 Click the images below to watch the demonstration videos on YouTube:
 
-| 2D Version (Classic Memory) | 3D Version (Exploration) |
+| 2D Version | 3D Version |
 | :--- | :--- |
 | [![2D Gameplay Demo](ex2.png)](https://youtu.be/ZMIIgr2Lnhk) | [![3D Gameplay Demo](ex1.png)](https://youtu.be/MQpYYYzcbck) |
+| :--- | :--- |
+| (https://youtu.be/ZMIIgr2Lnhk) | (https://youtu.be/MQpYYYzcbck) |
 
 ## 🎮 Game Overview
 "順向點擊" (Click In Order) is a game themed around the night sky. 
